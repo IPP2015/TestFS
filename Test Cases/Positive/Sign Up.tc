@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing Positive</description>
+   <name>Sign Up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fce1e284-9a4a-4249-9109-762b37549e15</testCaseGuid>
+</TestCaseEntity>
